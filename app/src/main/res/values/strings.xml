@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">D2L</string>
+    <string name="l1">Refer to the lab webpage to perform all the CodeLab activities. Meanwhile, follow the lab report instructions in the "Start Here" module to compile your report and upload it here. Due on 6/9,
+   Submissions with a 20% late penalty will be accepted until 6/11 11:59 PM. PDF Submission should include:\n
+1. Lesson 1.1 Learning badge, Kotlin "Hello World" program output screenshot run in IntelliJ IDEA\n
+2. Kotlin Basics Learning Badge.\n
+3. Lesson 1 Quiz results screenshot.</string>
+    <string name="l2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="l3">
+        Refer to the Lab to perform all the CodeLab activities. Meanwhile, follow the lab report instruction in the "Start Here" module to compile your report and upload it here.
+
+2 codelab activities and Quiz screenshots should be submitted.\n
+
+Due by 6/16 at 11:59 PM \n
+
+Late submissions will be accepted until 6/18 with a 20% late penalty.
+    </string>
+    <string name="l4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="l5">"Do the following:
+Go to https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-1
+Dessert Clicker
+What you'll learn
+How to print logging information to the Logcat
+The basics of the Activity lifecycle and the callbacks that are invoked when the activity moves between states
+How to override lifecycle callback methods to perform operations at different times in the activity lifecycle
+What you'll build
+
+Modify a starter app, Dessert Clicker, to add logging information displayed in the Logcat.
+Override lifecycle callback methods and log changes to the activity state.
+Run the app and note the logging information that appears as the activity starts, stops, and resumes.
+Implement rememberSaveable to retain app data that may be lost if the device configuration changes
+Take the Quiz
+Submit
+App code and output screenshots
+Quiz score screenshots,
+Learning badges
+Due on 6/23/2025 at 11:59 PM, submissions with a late penalty of 20% will be accepted until 6/25/2025 at 11:59 PM.
+Bonus (1 Point)
+
+Build an Unscramble game app where the user can guess the scrambled words, add the code, and output screenshots.
+You will learn
+How to add dependencies for unit tests in the app module's build.gradle.kts file
+How to create a test strategy to implement unit tests
+How to write unit tests using JUnit4 and understand the test instance lifecycle
+How to run, analyze, and improve code coverage and implement Unit tests for the Unscramble game app
+Practice adding a ViewModel to an app and abstracting logic away from the Activity
+Submit the game app code and screenshots, unit tests code, and screenshots."</string>
+    <string name="l6">Due on 6/30, 11:59 PM.
+
+Late submissions with a 20% penalty will be accepted until 7/2 at 11:59 PM.
+
+Do the following:\n
+
+\nPart 1: Choose Pathway 2 in the link below, and attach the screenshots of all activities completed.
+
+https://developer.android.com/codelabs/kotlin-android-training-add-navigation#1 \n\n
+
+Part 2: Lesson 6: App navigation  |  Android Developers, attach the screenshot of the quiz results. \n
+
+Follow the lab report instructions in the "Start Here" module to compile and upload your report.</string>
+    <string name="l7">Refer to the following links: \n
+
+ https://developer.android.com/courses/pathways/android-architecture \n
+
+https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-3 \n \n
+
+to perform all the CodeLab activities. Meanwhile, follow the lab report instructions in the "Start Here" module to compile your report and upload it here. \n \n
+
+Submission: My City App code, Output screenshots, Android Architecture Quiz score, Adaptive layouts Quiz score screenshots should be included in the submission.
+
+Due on 7/7/2025 11:59 PM
+
+Late submissions will be accepted with a 20% penalty until 7/9/2025 11:59 PM</string>
+    <string name="l8">Refer to the following link to perform all the CodeLab activities. Meanwhile, follow the lab report instructions in the "Start Here" module to compile your report and upload it here.
+
+https://developer.android.com/courses/pathways/android-development-with-kotlin-9
+
+Submission: Screenshots of the Bus Schedule App code, output, and Data Persistence Quiz score should be submitted.
+
+Bus Schedule app code, output screenshots, and quiz results screenshots should be submitted.
+
+Due on 3/31/2025 11:59 PM
+
+Late submissions with a 20% penalty will be accepted until 4/2/2025 at 11:59 PM</string>
+    <string name="l9">
+        Refer to the Lab to perform all the CodeLab activities. Meanwhile, follow the lab report instruction in the "Start Here" module to compile your report and upload it here.
+
+Link: https://developer.android.com/courses/pathways/android-basics-compose-unit-5-pathway-2?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-development-with-kotlin-11%23codelab-%2Fcodelabs%2Fkotlin-android-training-internet-images#codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-bookshelf \n \n
+        Submission should include:\n \n
+
+Build Amphibians App code screenshots \n
+Build Amphibians App output screenshot \n
+Create a bookshelf App code screenshots \n
+Create a bookshelf App Output screenshot \n \n
+https://developer.android.com/courses/quizzes/android-basics-compose-unit-5-pathway-1/android-basics-compose-unit-5-pathway-1?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-5-pathway-1%3Fcontinue%3Dhttps%253A%252F%252Fdeveloper.android.com%252Fcourses%252Fpathways%252Fandroid-development-with-kotlin-11%2523codelab-%252Fcodelabs%252Fkotlin-android-training-internet-data%23quiz-%2Fcourses%2Fquizzes%2Fandroid-basics-compose-unit-5-pathway-1%2Fandroid-basics-compose-unit-5-pathway-1 Quiz score screenshot
+    </string>
+    <string name="l10">Refer to the following link to perform all the CodeLab activities. Meanwhile, follow the lab report instruction in the "Start Here" module to compile your report and upload it here.
+
+\nLinks: https://developer.android.com/courses/pathways/android-basics-compose-unit-7-pathway-1
+
+Submissions:\n
+
+Enhanced Water Me! app code screenshots
+\nEnhanced Water Me! app output screenshots
+\nQuiz score screenshot</string>
+    <string name="l11">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="l12">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="l13">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name ="welcome">Hello everyone, and welcome!
+
+My name is Jyothsna Dinadayalane, and you can call me Mrs. JD. I will be your instructor for this course, and I want you to know how excited I am to embark on this journey with you. I have been a full-time lecturer in the College of Computing and Software Engineering at Kennesaw State University for the past two years, and I feel truly privileged to share my knowledge and experiences with you. Before teaching at KSU, I spent twelve years as a software developer and three years as a part-time lecturer, which has given me valuable insights that I hope will benefit you in your studies.
+
+I am passionate about both teaching and coding, and I genuinely care about your learning experience. Outside of my professional life, I enjoy cooking and watching web series, which helps me unwind and stay creative. I am here to support you, and I am looking forward to a wonderful semester together!
+
+About the course:
+
+This course primarily focuses on mobile application development and security for smartphones and mobile telecommunication systems. Its goals are to provide students with real-world, relevant mobile sensor app development and improve their knowledge and skills in mobile application development and mobile security.
+
+Please review the SYLLABUS and FAQs in the Start Here module in the Content folder.
+
+The first week is dedicated to orientation and an introduction to the course and Kotlin Basics. Take some time to explore the materials in the Start Here folder for the first week, and then complete the Orientation Assignment and Syllabus Quiz for bonus points. Also, please do not forget to introduce yourself to the class by participating in the Introduce Yourself discussion post! All of these activities are due by the end of next Monday, June 2nd.
+
+This is a 100% online hybrid class, and all learning materials are available on D2L, including additional slides and links.
+
+You can reach me via email at jdinaday@kennesaw.edu. Please do not use the D2L email tool, as it may delay my response. My office hours are Wednesday from noon to 2:00 pm on Teams, or we can schedule a meeting at another time by appointment. Feel free to contact me if you encounter any issues with the course.
+
+I hope we will have a great and productive semester, and I look forward to getting to know all of you!</string>
+    <string name ="labreport"></string>
+    <string name ="syllabus"></string>
+    <string name ="projectinstructions"></string>
+</resources>
